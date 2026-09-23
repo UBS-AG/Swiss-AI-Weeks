@@ -7,6 +7,8 @@ UBS is proud to both [partner](https://ai-weeks.ch/2026/partners/ubs) with Swiss
 
 ## Hackathon Challenges
 
+Click [here to enroll](https://luma.com/event/evt-etb3YB1W6FSIG6z) in the Q&A session for 2026's challenge!
+
 |Year|Title|The Question|[Swiss{ai}Weeks](https://ai-weeks.ch/) link|
 |--|--|--|--|
 |2026|[Transaction Activity Forecasting](hackathons/2026/challenge.md)|How can we use AI to predict a client’s future transaction activity from their historical financial transaction patterns?|[ai-weeks challenges](https://ai-weeks.ch/2026/challenges) [scroll to the end]|
